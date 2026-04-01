@@ -4,15 +4,3 @@ numpy==1.26.4
 Pillow==10.2.0
 pandas==2.2.1
 gTTS==2.5.1
-
-
-
-# App Settings
-APP_NAME=Tactile Bridge
-DEBUG=True
-
-# Audio Settings
-TTS_LANGUAGE=en
-
-# File Upload Limits (optional)
-MAX_FILE_SIZE=10MB
